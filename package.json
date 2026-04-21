@@ -6,7 +6,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Rukwith Reddy",
   "license": "ISC",
   "description": "",
   "dependencies": {
